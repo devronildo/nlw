@@ -9,7 +9,9 @@ Ecoleta é um projeto desenvolvido a partir da Semana Internacional do Meio Ambi
 Este projeto foi desenvolvido com as seguintes tecnol:
 
 TypeScript
+
 Express
+
 React
 React Native
 React-Leaflet
