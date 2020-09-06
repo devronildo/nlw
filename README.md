@@ -2,11 +2,11 @@
 
 ![NLWIMAGE](https://user-images.githubusercontent.com/28160524/86048727-63dadc80-ba27-11ea-8bda-07db3704d345.png)
 
-Projeto construido durante o Next Level Week...
-Ecoleta is a project developed based on the International Environment Week. The goal is to connect people to companies that collect specific waste, such as light bulbs, batteries, etc.
+Projeto construido durante o Next Level Week ...
+Ecoleta é um projeto desenvolvido a partir da Semana Internacional do Meio Ambiente. O objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, etc.
 
-🚀 Technologies
-This project was developed with the following technologies:
+🚀 Tecnologias.
+Este projeto foi desenvolvido com as seguintes tecnol:
 
 TypeScript
 Express
