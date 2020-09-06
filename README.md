@@ -5,7 +5,8 @@
 Projeto construido durante o Next Level Week ...
 Ecoleta é um projeto desenvolvido a partir da Semana Internacional do Meio Ambiente. O objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, etc.
 
-🚀 Tecnologias.
+## 🚀 Tecnologias.
+
 Este projeto foi desenvolvido com as seguintes tecnol:
 
 TypeScript
@@ -13,10 +14,16 @@ TypeScript
 Express
 
 React
+
 React Native
+
 React-Leaflet
+
 Expo
+
 Knex
+
 Multer
+
 SQLite3
 
